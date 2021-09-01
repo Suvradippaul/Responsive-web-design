@@ -11,4 +11,5 @@ learning process of front end web development.
 
 **Server:** No server side implementation for now
 
-  
+## Live demo
+The page is available live at [github pages](https://suvradippaul.github.io/Responsive-web-design/)
