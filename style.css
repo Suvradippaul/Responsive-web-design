@@ -64,10 +64,11 @@ article p {
 
 
 .nav{
-    background-color: #eee;
+    background-color: rgb(238, 238, 238);
     display: block;
     width: 100%;
     margin: 0;
+    font-family: sans-serif;
 }
 
 .nav ul{
@@ -80,6 +81,10 @@ article p {
 .nav li {
     list-style: none;
     float: left;
+    border: 2px solid black;
+    border-radius: 7px;
+    padding: 2px 2px;
+    margin: 2px 2px;
 }
 
 .nav li a {
@@ -90,6 +95,7 @@ article p {
     padding: 14px;
     text-transform: uppercase;
     color: #666;
+    transition: 0.5s
 }
 
 .nav li a:hover{
